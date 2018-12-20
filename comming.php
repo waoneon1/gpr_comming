@@ -23,8 +23,9 @@ body, html {
 .bgimg-1 {
 	background-image: url(<?php echo get_template_directory_uri() ?>/comming/bg-utama.png);
 	height: 100%;
-	padding: 25px 40px;
-	box-sizing: border-box;
+	padding: 10px 40px 0;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
 
